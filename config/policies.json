@@ -1,0 +1,15 @@
+{
+  "payment": {
+    "max_amount": 50000,
+    "high_risk_amount": 75000
+  },
+  "email": {
+    "external_recipient_requires_approval": true
+  },
+  "customer_data": {
+    "external_transfer_allowed": false
+  },
+  "database": {
+    "delete_requires_approval": true
+  }
+}
